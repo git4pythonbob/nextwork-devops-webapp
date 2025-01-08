@@ -1,5 +1,5 @@
 <settings>
-</settings>
+
 <servers>
   <server>
     <id>nextwork-nextwork-packages</id>
@@ -29,3 +29,4 @@
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
+</settings>
